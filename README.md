@@ -1,8 +1,6 @@
 # Kaggle_TUT_Copper_Analysis
 Second place submission to "TUT Copper Analysis Challenge" https://inclass.kaggle.com/c/copper-analysis
 
-This readme will be updated soon!
-
 Please refer to the model description PDF file to get more information about the competition and the best model solution.
 
 Data can be downloaded from: https://inclass.kaggle.com/c/copper-analysis/data
